@@ -18,7 +18,8 @@ https://veeditparikh2211.github.io/Workday_Scheduler/
 
 ## Application
 
-![image](images\application_page.PNG)
+![](images\application_page.PNG)
+
 ## Contribution
 
 Made by Veedit Parikh
